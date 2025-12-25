@@ -1,0 +1,6 @@
+C:\Users\User\MemoryGame\MemoryGame\x64\Debug\MemoryGame.vcxproj.AssemblyReference.cache
+C:\Users\User\MemoryGame\MemoryGame\x64\Debug\MemoryGame.Form1.resources
+C:\Users\User\MemoryGame\MemoryGame\x64\Debug\MemoryGame.vcxproj.GenerateResource.cache
+C:\Users\User\MemoryGameFork\MemoryGame\x64\Debug\MemoryGame.vcxproj.AssemblyReference.cache
+C:\Users\User\MemoryGameFork\MemoryGame\x64\Debug\MemoryGame.Form1.resources
+C:\Users\User\MemoryGameFork\MemoryGame\x64\Debug\MemoryGame.vcxproj.GenerateResource.cache

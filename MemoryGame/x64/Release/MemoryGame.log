@@ -1,0 +1,23 @@
+﻿Сборка начата 26.12.2025 0:58:33.
+Уровень детализации журнала: Normal.     1>Проект "D:\ВРПО\MemoryGame-main\MemoryGame\MemoryGame.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Обращение к "x64\Release\MemoryGame.tlog\unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+     1>D:\Vs Code\VS Code\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(3455,5): error MSB3821: не удалось обработать файл "Form1.resx", так как он находится в Интернете или ограниченной зоне либо имеет веб-метку. Чтобы обрабатывать такие файлы, следует удалить веб-метку.
+     1>Сборка проекта "D:\ВРПО\MemoryGame-main\MemoryGame\MemoryGame.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "D:\ВРПО\MemoryGame-main\MemoryGame\MemoryGame.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект CoreResGen) -> 
+         D:\Vs Code\VS Code\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(3455,5): error MSB3821: не удалось обработать файл "Form1.resx", так как он находится в Интернете или ограниченной зоне либо имеет веб-метку. Чтобы обрабатывать такие файлы, следует удалить веб-метку.
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:00.03

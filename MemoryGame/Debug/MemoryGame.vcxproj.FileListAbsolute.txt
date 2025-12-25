@@ -1,0 +1,3 @@
+C:\Users\ASRock\Documents\GitHub\MemoryGame\MemoryGame\Debug\MemoryGame.vcxproj.AssemblyReference.cache
+C:\Users\ASRock\Documents\GitHub\MemoryGame\MemoryGame\Debug\MemoryGame.Form1.resources
+C:\Users\ASRock\Documents\GitHub\MemoryGame\MemoryGame\Debug\MemoryGame.vcxproj.GenerateResource.cache
